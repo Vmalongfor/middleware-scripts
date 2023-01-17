@@ -12,7 +12,7 @@ sudo yum install java-11-openjdk-devel -y
 
 sudo yum install java-11-openjdk -y
 
-sleep 2
+sleep 3
 
 cd /opt 
 
