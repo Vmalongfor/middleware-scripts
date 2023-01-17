@@ -41,6 +41,7 @@ echo "Now we will start and enable the docker engine..."
 
 systemctl start docker
 systemctl enable docker
+systemctl status docker
 
 echo "Let us check now the status of Docker to make sure it is running and enabled..... "
 
